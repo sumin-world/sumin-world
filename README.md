@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=sumin-world;C+%26+Rust+System+Dev;Linux+Kernel+Exploit+Research;Reverse+Engineering+%26+Security" alt="Typing SVG" />
-</h1>
+<h1 align="center">sumin-world</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=C+%26+Rust+System+Dev;Linux+Kernel+Exploit+Research;Reverse+Engineering+%26+Security" alt="Typing SVG" />
+</p>
 
 ---
 
