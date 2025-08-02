@@ -37,9 +37,15 @@
 
 ---
 
-### Tech Stack
+## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,rust,linux,bash,git,github,vscode,docker,gdb" height="50" style="filter: drop-shadow(0 0 10px #00F5FF);" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+  <!-- Rust -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
 </p>
 
 ---
