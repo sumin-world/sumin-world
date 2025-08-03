@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F0F0F,100:2A2A2A&text=SYSTEM%20PROGRAMMER&fontColor=FFFFFF&fontSize=30&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F0F0F,100:2A2A2A&text=RUSTACEAN&fontColor=FFFFFF&fontSize=30&animation=twinkling&fontAlignY=32" />
 </p>
 
 ---
