@@ -1,5 +1,14 @@
 <h1 align="center">sumin-world 🦀</h1>
 
+<details>
+<summary>🤔 Why this name?</summary>
+
+```rust
+use std::ops::BitOr; struct S(&'static str); impl BitOr for S{type Output=String; fn bitor(self,rhs:Self)->Self::Output{format!("{} in {}!",self.0,rhs.0)}} fn main(){println!("{}",S("sum")|S("world"));}
+```
+*Sometimes the answer is in the code itself* ✨
+</details>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&lines=C+%26+Rust+System+Programming;Linux+Kernel+%26+Security+Research" alt="Typing SVG" />
 </p>
