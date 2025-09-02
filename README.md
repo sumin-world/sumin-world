@@ -32,3 +32,17 @@ use std::ops::BitOr; struct S(&'static str); impl BitOr for S{type Output=String
 </p>
 
 ---
+
+### 🔧 What I build
+- **TCP HTTP Client (C)** — non-blocking `connect`, DNS multi-A failover, recv timeout  
+  ↳ https://github.com/sumin-world/suminworld-system-lab/tree/main/network/basics  
+- **Multi-client Echo Server (C)** — `select()` 기반, 타임아웃/keepalive 옵션  
+  ↳ https://github.com/sumin-world/suminworld-system-lab/tree/main/network/echo_server
+- **Rust snippets** — “sum in world, suminworld!” one-liner & fun experiments
+
+### 🧠 Interests
+Low-level networking, socket internals, TLS, packet forensics, systems debugging
+
+### 🗞️ Posts
+- 네트워크 소켓 프로그래밍/패킷 분석 실습 가이드 (Velog)  
+  https://velog.io/@suminworld
