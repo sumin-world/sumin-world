@@ -48,9 +48,6 @@ Linux internals (syscall, process, memory management)
 Security research & CTF practice (Dreamhack, pwnable.kr, OverTheWire)
 
 ### 🪼 Posts
-- 네트워크 소켓 프로그래밍/패킷 분석 실습 가이드 (Velog)  
-  https://velog.io/@suminworld
-- 프로세스와 fork() 동작 구조 (Velog)
-  https://velog.io/@suminworld/프로세스와-fork-동작-구조
-- 스택 버퍼 오버플로우: 기초부터 익스플로잇까지 (Velog)
-- https://velog.io/@suminworld/스택-버퍼-오버플로우-기초부터-익스플로잇까지
+- [네트워크 소켓 프로그래밍/패킷 분석 실습 가이드 (Velog)](https://velog.io/@suminworld)
+- [프로세스와 fork() 동작 구조 (Velog)](https://velog.io/@suminworld/프로세스와-fork-동작-구조)
+- [스택 버퍼 오버플로우: 기초부터 익스플로잇까지 (Velog)](https://velog.io/@suminworld/스택-버퍼-오버플로우-기초부터-익스플로잇-까지)
