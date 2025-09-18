@@ -1,0 +1,23 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 12시간마다 (UTC)
+  workflow_dispatch:         # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://suminworld.tistory.com/rss"
+          max_post: 5
+          readme_path: "./README.md"     # 프로필 리포 루트 README
+          comment_tag_name: "BLOG-POST-LIST"
+          # 아래 옵션은 문제 있을 때 켜면 도움됨 (필수 아님)
+          # disable_item_validation: true
