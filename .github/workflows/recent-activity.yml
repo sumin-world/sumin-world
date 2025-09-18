@@ -15,4 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Readme-Workflows/recent-activity@v2.4.1
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: sumin-world
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
