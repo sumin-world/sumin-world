@@ -5,20 +5,22 @@
 
 ```rust
 use std::ops::BitOr;
+
 struct S(&'static str);
+
 impl BitOr for S {
     type Output = String;
     fn bitor(self, rhs: Self) -> Self::Output {
         format!("{} in {}!", self.0, rhs.0)
     }
 }
+
 fn main() {
     println!("{}", S("sum") | S("world"));
 }
 ```
 
 *Sometimes the answer is in the code itself* ✨
-
 </details>
 
 <p align="center">
@@ -40,7 +42,6 @@ fn main() {
 ### 🚀 Featured Projects
 
 #### 🌐 Network Programming
-
 - **[TCP HTTP Client](https://github.com/sumin-world/suminworld-system-lab/tree/main/network/basics)** (C)
   - Non-blocking connect, DNS multi-A failover, recv timeout
   - Production-ready HTTP/1.1 implementation
@@ -50,7 +51,6 @@ fn main() {
   - Timeout & keepalive support
 
 #### 🔒 System Security & Programming
-
 - **[Signal Handling Demo](https://github.com/sumin-world/suminworld-system-lab/tree/main/signal-demo)** (C)
   - POSIX signal handling with CI/CD automation
   - Interactive demo with automated testing
@@ -60,7 +60,6 @@ fn main() {
   - Process management & I/O redirection
 
 #### 🦀 Rust Experiments
-
 - **One-liner Challenge**: `sum in world = suminworld!`
 - Custom operators & trait implementations
 
