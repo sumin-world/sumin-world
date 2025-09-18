@@ -68,6 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [DesmondoRay/CSAPP-3e](https://github.com/DesmondoRay/CSAPP-3e)<br>
+2. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-autodrive-lab](https://github.com/sumin-world/suminworld-autodrive-lab)<br>
+3. ⬆️ Pushed 3 commit(s) to [sumin-world/suminworld-autodrive-lab](https://github.com/sumin-world/suminworld-autodrive-lab)<br>
+4. 📔 Created new repository [sumin-world/suminworld-autodrive-lab](https://github.com/sumin-world/suminworld-autodrive-lab)<br>
+5. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
