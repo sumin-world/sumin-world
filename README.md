@@ -108,15 +108,6 @@ fn main() {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumin-world&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin-world&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 <p align="center">
   <i>💡 "Learning by building, one system call at a time"</i>
 </p>
