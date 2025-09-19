@@ -107,7 +107,7 @@ fn main() {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumin-world&label=num" alt="count" height="16" />
+  <img src="https://komarev.com/ghpvc/?username=sumin-world&label=count" alt="count" height="16" />
 </p>
 
 <p align="center">
