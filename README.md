@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HalilDeniz/RansomwareSim](https://github.com/HalilDeniz/RansomwareSim)<br>
-2. ⭐ Starred [NextronSystems/ransomware-simulator](https://github.com/NextronSystems/ransomware-simulator)<br>
-3. ⭐ Starred [DesmondoRay/CSAPP-3e](https://github.com/DesmondoRay/CSAPP-3e)<br>
-4. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-autodrive-lab](https://github.com/sumin-world/suminworld-autodrive-lab)<br>
-5. ⬆️ Pushed 3 commit(s) to [sumin-world/suminworld-autodrive-lab](https://github.com/sumin-world/suminworld-autodrive-lab)<br>
+1. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+2. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+3. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+4. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+5. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
