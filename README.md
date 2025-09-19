@@ -106,9 +106,10 @@ fn main() {
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumin-world&label=num" alt="count" height="16" />
+</p>
 
 <p align="center">
   <i>💡 "Learning by building, one system call at a time"</i>
 </p>
-
