@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-2. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-3. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-4. ✌️ Released [Rust Security Toolkit — First Release](https://github.com/sumin-world/rust-security-suminworld/releases/tag/v0.1.0) in [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-5. ❗️ Opened issue [#4](https://github.com/sumin-world/rust-security-suminworld/issues/4) in [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+1. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+2. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+3. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+4. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+5. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
