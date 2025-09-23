@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)<br>
-2. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-3. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-4. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-5. ⬆️ Pushed 1 commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+1. ❗️ Opened issue [#3](https://github.com/sumin-world/rust-security-suminworld/issues/3) in [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+2. ⭐ Starred [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide)<br>
+3. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+4. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+5. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
@@ -113,3 +113,20 @@ fn main() {
 <p align="center">
   <i>💡 "Learning by building, one system call at a time"</i>
 </p>
+
+---
+
+### 🎶 Now Playing (YouTube Music)
+<!-- YTM-NOW-PLAYING:START -->
+[![YouTube Music](https://yt-music-profile.vercel.app/api?theme=dark)](https://music.youtube.com)
+<!-- YTM-NOW-PLAYING:END -->
+
+### ⏱️ Recently Played
+<!-- YTM-RECENT:START -->
+_No recent tracks found_
+<!-- YTM-RECENT:END -->
+
+### ❤️ Liked Songs
+<!-- YTM-LIKED:START -->
+_No liked songs yet_
+<!-- YTM-LIKED:END -->

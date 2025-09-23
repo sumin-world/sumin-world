@@ -1,0 +1,36 @@
+name: Update YouTube Music Sections
+on:
+  schedule:
+    - cron: "*/60 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install ytmusicapi
+
+      - name: Restore headers
+        run: |
+          echo "$YTM_HEADERS_JSON" > headers_auth.json
+        env:
+          YTM_HEADERS_JSON: ${{ secrets.YTM_HEADERS_JSON }}
+
+      - name: Generate markdown sections
+        run: python scripts/render_ytmusic.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git diff --quiet && echo "No changes" || git commit -m "Update YT Music sections"
+          git push
