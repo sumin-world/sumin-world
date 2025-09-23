@@ -113,3 +113,18 @@ fn main() {
 <p align="center">
   <i>💡 "Learning by building, one system call at a time"</i>
 </p>
+
+### 🎶 Now Playing (YouTube Music)
+<!-- YTM-NOW-PLAYING:START -->
+Loading...
+<!-- YTM-NOW-PLAYING:END -->
+
+### ⏱️ Recently Played
+<!-- YTM-RECENT:START -->
+Loading...
+<!-- YTM-RECENT:END -->
+
+### ❤️ Liked Songs
+<!-- YTM-LIKED:START -->
+Loading...
+<!-- YTM-LIKED:END -->
