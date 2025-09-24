@@ -113,20 +113,3 @@ fn main() {
 <p align="center">
   <i>💡 "Learning by building, one system call at a time"</i>
 </p>
-
----
-
-### 🎶 Now Playing (YouTube Music)
-<!-- YTM-NOW-PLAYING:START -->
-[![YouTube Music](https://yt-music-profile.vercel.app/api?theme=dark)](https://music.youtube.com)
-<!-- YTM-NOW-PLAYING:END -->
-
-### ⏱️ Recently Played
-<!-- YTM-RECENT:START -->
-_No recent tracks found_
-<!-- YTM-RECENT:END -->
-
-### ❤️ Liked Songs
-<!-- YTM-LIKED:START -->
-_No liked songs yet_
-<!-- YTM-LIKED:END -->
