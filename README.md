@@ -68,7 +68,7 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+1. ⬆️ Pushed 26 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
 2. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 3. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 4. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
