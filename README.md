@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 26 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
-2. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-3. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-4. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-5. ⬆️ Pushed 1 commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+1. ⬆️ Pushed 7 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
+2. ⭐ Starred [xtiankisutsa/awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)<br>
+3. ⭐ Starred [shellphish/how2heap](https://github.com/shellphish/how2heap)<br>
+4. ⭐ Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)<br>
+5. ⬆️ Pushed 26 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
