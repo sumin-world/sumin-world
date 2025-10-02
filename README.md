@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [x86-64 스택 프롤로그&lpar;Stack Prologue&rpar;와 스택 프레임&lpar;Stack Frame&rpar;](https://suminworld.tistory.com/24)
 - [ALFA AWUS036ACM&lpar;MT7612U&rpar; 모니터모드 캡처 설정](https://suminworld.tistory.com/23)
 - [사이드 채널 공격&lpar;Side Channel Attack&rpar;: Flush+Reload로 캐시 접근 패턴 들여다보기](https://suminworld.tistory.com/22)
 - [백준 2188 : 인접행렬 -&amp;gt; 인접리스트 코드 개선](https://suminworld.tistory.com/21)
 - [[리눅스 프로그래밍 &amp;middot; DevOps] GitHub Actions로 C Signal Handling Demo CI/CD 구축기](https://suminworld.tistory.com/20)
-- [️SGI 서울보증 랜섬웨어 사건 정리 &amp;amp; 리눅스 백신 실습](https://suminworld.tistory.com/19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
