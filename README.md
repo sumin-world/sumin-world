@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
-2. ⭐ Starred [xtiankisutsa/awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)<br>
-3. ⭐ Starred [shellphish/how2heap](https://github.com/shellphish/how2heap)<br>
-4. ⭐ Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)<br>
-5. ⬆️ Pushed 26 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
+1. 🔱 Forked [sumin-world/operating-system-in-1000-lines](https://github.com/sumin-world/operating-system-in-1000-lines) from [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)<br>
+2. ⬆️ Pushed 7 commit(s) to [sumin-world/gluesql](https://github.com/sumin-world/gluesql)<br>
+3. ⭐ Starred [xtiankisutsa/awesome-mobile-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)<br>
+4. ⭐ Starred [shellphish/how2heap](https://github.com/shellphish/how2heap)<br>
+5. ⭐ Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
