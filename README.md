@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[네트워크] Part 2: 첫 패킷 캡처 시도](https://suminworld.tistory.com/27)
 - [[네트워크] Part 1-4: 환경 세팅기 - 무선 랜카드 USB 패스스루 과정 ALFA AWUS036ACM&lpar;MT7612U&rpar; &lpar;UTM on macOS &amp;rarr; Ubuntu VM&rpar;](https://suminworld.tistory.com/26)
 - [[네트워크] Part 1-3: 환경 세팅기 Ubuntu 24.04 + UTM 환경에서 ALFA AWUS036ACM 무선랜카드 설정](https://suminworld.tistory.com/25)
 - [x86-64 스택 프롤로그&lpar;Stack Prologue&rpar;와 스택 프레임&lpar;Stack Frame&rpar;](https://suminworld.tistory.com/24)
 - [ALFA AWUS036ACM&lpar;MT7612U&rpar; 모니터모드 캡처 설정](https://suminworld.tistory.com/23)
-- [사이드 채널 공격&lpar;Side Channel Attack&rpar;: Flush+Reload로 캐시 접근 패턴 들여다보기](https://suminworld.tistory.com/22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
