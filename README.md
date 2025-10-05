@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [x86-64 레지스터의 자동 Zero-Extension 규칙](https://suminworld.tistory.com/31)
+- [[임시] 강의자료 정리: 함수 호출 과정 - Virtual Memory](https://suminworld.tistory.com/30)
+- [x86-64 어셈블리 명령어](https://suminworld.tistory.com/29)
+- [[Virtual Memory] x86-64 함수 호출 &amp;amp; Virtual Memory 기반 스택 프레임 정리 &lpar;SysV ABI&rpar;](https://suminworld.tistory.com/28)
 - [[네트워크] Part 2: 첫 패킷 캡처 시도](https://suminworld.tistory.com/27)
-- [[네트워크] Part 1-4: 환경 세팅기 - 무선 랜카드 USB 패스스루 과정 ALFA AWUS036ACM&lpar;MT7612U&rpar; &lpar;UTM on macOS &amp;rarr; Ubuntu VM&rpar;](https://suminworld.tistory.com/26)
-- [[네트워크] Part 1-3: 환경 세팅기 Ubuntu 24.04 + UTM 환경에서 ALFA AWUS036ACM 무선랜카드 설정](https://suminworld.tistory.com/25)
-- [x86-64 스택 프롤로그&lpar;Stack Prologue&rpar;와 스택 프레임&lpar;Stack Frame&rpar;](https://suminworld.tistory.com/24)
-- [ALFA AWUS036ACM&lpar;MT7612U&rpar; 모니터모드 캡처 설정](https://suminworld.tistory.com/23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
