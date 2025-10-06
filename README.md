@@ -68,9 +68,9 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/syzkaller](https://github.com/google/syzkaller)<br>
-2. ⭐ Starred [samratashok/ADModule](https://github.com/samratashok/ADModule)<br>
-3. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+1. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+2. ⭐ Starred [google/syzkaller](https://github.com/google/syzkaller)<br>
+3. ⭐ Starred [samratashok/ADModule](https://github.com/samratashok/ADModule)<br>
 4. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
 5. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
 <!--RECENT_ACTIVITY:end-->
