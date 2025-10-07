@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Day 1] pwnable 실습](https://suminworld.tistory.com/33)
 - [x86-64 레지스터의 자동 Zero-Extension 규칙](https://suminworld.tistory.com/31)
 - [[임시] 강의자료 정리: 함수 호출 과정 - Virtual Memory](https://suminworld.tistory.com/30)
 - [x86-64 어셈블리 명령어](https://suminworld.tistory.com/29)
 - [[Virtual Memory] x86-64 함수 호출 &amp;amp; Virtual Memory 기반 스택 프레임 정리 &lpar;SysV ABI&rpar;](https://suminworld.tistory.com/28)
-- [[네트워크] Part 2: 첫 패킷 캡처 시도](https://suminworld.tistory.com/27)
 <!-- BLOG-POST-LIST:END -->
 
 ---
