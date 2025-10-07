@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-2. ⭐ Starred [google/syzkaller](https://github.com/google/syzkaller)<br>
-3. ⭐ Starred [samratashok/ADModule](https://github.com/samratashok/ADModule)<br>
+1. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+2. 📔 Created new repository [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+3. 📔 Created new repository [sumin-world/suminworld-pwnable](https://github.com/sumin-world/suminworld-pwnable)<br>
 4. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-5. ⬆️ Pushed 1 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+5. ⭐ Starred [google/syzkaller](https://github.com/google/syzkaller)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
