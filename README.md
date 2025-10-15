@@ -69,10 +69,10 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)<br>
-2. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
-3. ⬆️ Pushed 2 commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-4. 🎉 Merged PR [#1](https://github.com/sumin-world/AeroCrab/pull/1) in [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-5. ⬆️ Pushed 1 commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
