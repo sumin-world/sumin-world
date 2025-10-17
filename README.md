@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+1. ⭐ Starred [utilForever/RustEssentials](https://github.com/utilForever/RustEssentials)<br>
+2. ⭐ Starred [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-ctf](https://github.com/sumin-world/suminworld-ctf)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
