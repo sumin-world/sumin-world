@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.](https://suminworld.tistory.com/38)
 - [[OS] errno와 시그널 핸들러](https://suminworld.tistory.com/37)
 - [컴퓨터 시스템의 메모리 계층 및 가상 메모리 구조](https://suminworld.tistory.com/36)
 - [운영체제 프로세스 개념 정리](https://suminworld.tistory.com/34)
 - [[Day 1] pwnable 실습](https://suminworld.tistory.com/33)
-- [x86-64 레지스터의 자동 Zero-Extension 규칙](https://suminworld.tistory.com/31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
