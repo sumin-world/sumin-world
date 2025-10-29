@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Memory Allocation](https://suminworld.tistory.com/41)
+- [Rust for Linux: 커널 개발을 위한 3가지 핵심 언어 기능](https://suminworld.tistory.com/40)
 - [일어서기](https://suminworld.tistory.com/39)
 - [[OS] errno와 시그널 핸들러](https://suminworld.tistory.com/37)
 - [컴퓨터 시스템의 메모리 계층 및 가상 메모리 구조](https://suminworld.tistory.com/36)
-- [운영체제 프로세스 개념 정리](https://suminworld.tistory.com/34)
-- [[Day 1] pwnable 실습](https://suminworld.tistory.com/33)
 <!-- BLOG-POST-LIST:END -->
 
 ---
