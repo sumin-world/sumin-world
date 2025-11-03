@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [tmux &lpar;수정 예정&rpar;](https://suminworld.tistory.com/44)
 - [[운영체제론] 가상 메모리](https://suminworld.tistory.com/35)
 - [[운영체제론] Dynamic Memory Allocation](https://suminworld.tistory.com/41)
 - [Rust for Linux: 커널 개발을 위한 3가지 핵심 언어 기능](https://suminworld.tistory.com/40)
 - [일어서기](https://suminworld.tistory.com/39)
-- [[운영체제론] errno와 시그널 핸들러](https://suminworld.tistory.com/37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
