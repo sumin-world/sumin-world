@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-3. ⭐ Starred [utilForever/RustEssentials](https://github.com/utilForever/RustEssentials)<br>
-4. ⭐ Starred [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+2. 💪 Opened PR [#4](undefined) in [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+4. 💪 Opened PR [#3](undefined) in [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+5. 🤝 Became collaborator on [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
