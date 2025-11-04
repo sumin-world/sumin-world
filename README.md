@@ -80,7 +80,7 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [리눅스 커널 모듈 빌드](https://suminworld.tistory.com/45)
+- [[운영체제론] 리눅스 커널 모듈 빌드 &lpar;수정 예정&rpar;](https://suminworld.tistory.com/45)
 - [tmux &lpar;수정 예정&rpar;](https://suminworld.tistory.com/44)
 - [[운영체제론] 가상 메모리](https://suminworld.tistory.com/35)
 - [[운영체제론] Dynamic Memory Allocation](https://suminworld.tistory.com/41)
