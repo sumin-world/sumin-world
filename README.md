@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sumin-world/Vision2Drive](https://github.com/sumin-world/Vision2Drive)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/AeroCrab](https://github.com/sumin-world/AeroCrab)<br>
+1. ❌ Closed PR [#3](undefined) in [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
+2. 💪 Opened PR [#3](undefined) in [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
+3. 💪 Opened PR [#2](undefined) in [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
+4. 💪 Opened PR [#1](undefined) in [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/Vision2Drive](https://github.com/sumin-world/Vision2Drive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
