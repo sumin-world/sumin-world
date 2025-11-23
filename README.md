@@ -55,7 +55,7 @@ fn main() {
   - POSIX signal handling with CI/CD automation
   - Interactive demo with automated testing
 
-- **[Tiny Shell](https://github.com/sumin-world/suminworld-system-lab/tree/main/tinyshell)** (C)
+- **[Tiny Shell](https://github.com/sumin-world/suminworld-system-lab/tree/main/shell)** (C)
   - Job control, signal handling, race condition prevention
   - Process management & I/O redirection
 
