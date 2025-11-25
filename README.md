@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Dev Challenge: C 언어 타입 변환의 함정](https://suminworld.tistory.com/49)
 - [[OS] 뮤텍스 + Block&lpar;&rpar; 방식의 문제점 &lpar;Producer-Consumer Problem&rpar;](https://suminworld.tistory.com/48)
 - [[운영체제론] Constant Time Coalescing &lpar;Case 1-4&rpar; 정리](https://suminworld.tistory.com/46)
 - [tmux &lpar;수정 예정&rpar;](https://suminworld.tistory.com/44)
 - [[운영체제론] 가상 메모리](https://suminworld.tistory.com/35)
-- [[운영체제론] Dynamic Memory Allocation](https://suminworld.tistory.com/41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
