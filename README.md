@@ -80,11 +80,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [️리눅스 백신 실습2 - ClamAV 실시간 보호 구현 &lpar;inotify + bash 자동화&rpar;](https://suminworld.tistory.com/50)
 - [Google Dev Challenge: C 언어 타입 변환의 함정](https://suminworld.tistory.com/49)
 - [[OS] 뮤텍스 + Block&lpar;&rpar; 방식의 문제점 &lpar;Producer-Consumer Problem&rpar;](https://suminworld.tistory.com/48)
 - [[운영체제론] Constant Time Coalescing &lpar;Case 1-4&rpar; 정리](https://suminworld.tistory.com/46)
 - [tmux &lpar;수정 예정&rpar;](https://suminworld.tistory.com/44)
-- [[운영체제론] 가상 메모리](https://suminworld.tistory.com/35)
 <!-- BLOG-POST-LIST:END -->
 
 ---
