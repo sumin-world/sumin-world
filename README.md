@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-2. ⭐ Starred [nv-morpheus/Morpheus](https://github.com/nv-morpheus/Morpheus)<br>
-3. ❌ Closed PR [#1](undefined) in [sumin-world/Vision2Drive](https://github.com/sumin-world/Vision2Drive)<br>
-4. 💪 Opened PR [#4](undefined) in [silverkkang/Vision2Drive](https://github.com/silverkkang/Vision2Drive)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/Vision2Drive](https://github.com/sumin-world/Vision2Drive)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+4. ⭐ Starred [nv-morpheus/Morpheus](https://github.com/nv-morpheus/Morpheus)<br>
+5. ❌ Closed PR [#1](undefined) in [sumin-world/Vision2Drive](https://github.com/sumin-world/Vision2Drive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
