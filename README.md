@@ -68,10 +68,10 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
-3. ⭐ Starred [openstack/barbican](https://github.com/openstack/barbican)<br>
-4. ⭐ Starred [remzi-arpacidusseau/ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations)<br>
+1. ⭐ Starred [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)<br>
+2. ⭐ Starred [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap)<br>
+3. ⭐ Starred [redis/redis](https://github.com/redis/redis)<br>
+4. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)<br>
 5. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
