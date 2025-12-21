@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)<br>
-2. ⭐ Starred [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap)<br>
-3. ⭐ Starred [redis/redis](https://github.com/redis/redis)<br>
-4. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/suminworld-system-lab](https://github.com/sumin-world/suminworld-system-lab)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/Yonsei-System-Programming-Labs](https://github.com/sumin-world/Yonsei-System-Programming-Labs)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/Computer-Vision-Algorithms-Lab](https://github.com/sumin-world/Computer-Vision-Algorithms-Lab)<br>
+3. ⭐ Starred [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)<br>
+4. ⭐ Starred [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap)<br>
+5. ⭐ Starred [redis/redis](https://github.com/redis/redis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
