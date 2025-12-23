@@ -69,10 +69,10 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/Yonsei-System-Programming-Labs](https://github.com/sumin-world/Yonsei-System-Programming-Labs)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/Computer-Vision-Algorithms-Lab](https://github.com/sumin-world/Computer-Vision-Algorithms-Lab)<br>
-4. ⭐ Starred [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)<br>
-5. ⭐ Starred [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
