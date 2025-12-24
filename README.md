@@ -68,7 +68,7 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+1. ⭐ Starred [letta-ai/letta](https://github.com/letta-ai/letta)<br>
 2. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
 3. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
 4. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
