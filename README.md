@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [sumin-world/letta](https://github.com/sumin-world/letta) from [letta-ai/letta](https://github.com/letta-ai/letta)<br>
-2. ❗️ Opened issue [#3120](https://github.com/letta-ai/letta/issues/3120) in [letta-ai/letta](https://github.com/letta-ai/letta)<br>
-3. ⭐ Starred [letta-ai/letta](https://github.com/letta-ai/letta)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
+2. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
+3. 🔱 Forked [sumin-world/letta](https://github.com/sumin-world/letta) from [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+4. ❗️ Opened issue [#3120](https://github.com/letta-ai/letta/issues/3120) in [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+5. ⭐ Starred [letta-ai/letta](https://github.com/letta-ai/letta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
