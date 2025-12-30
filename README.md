@@ -69,10 +69,10 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/core-systems-lab](https://github.com/sumin-world/core-systems-lab)<br>
-3. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
-4. 🔱 Forked [sumin-world/letta](https://github.com/sumin-world/letta) from [letta-ai/letta](https://github.com/letta-ai/letta)<br>
-5. ❗️ Opened issue [#3120](https://github.com/letta-ai/letta/issues/3120) in [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+2. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
+3. 🔱 Forked [sumin-world/letta](https://github.com/sumin-world/letta) from [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+4. ❗️ Opened issue [#3120](https://github.com/letta-ai/letta/issues/3120) in [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+5. ⭐ Starred [letta-ai/letta](https://github.com/letta-ai/letta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
