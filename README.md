@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opencv/opencv](https://github.com/opencv/opencv)<br>
-2. ⭐ Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)<br>
-3. ⭐ Starred [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)<br>
-4. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
-5. 🔱 Forked [sumin-world/letta](https://github.com/sumin-world/letta) from [letta-ai/letta](https://github.com/letta-ai/letta)<br>
+1. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
+2. ⭐ Starred [opencv/opencv](https://github.com/opencv/opencv)<br>
+3. ⭐ Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)<br>
+4. ⭐ Starred [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)<br>
+5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
