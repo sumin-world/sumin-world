@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/hardware-adjacent-systems-lab](https://github.com/sumin-world/hardware-adjacent-systems-lab)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/hardware-adjacent-systems-lab](https://github.com/sumin-world/hardware-adjacent-systems-lab)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/hardware-adjacent-systems-lab](https://github.com/sumin-world/hardware-adjacent-systems-lab)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/hardware-adjacent-systems-lab](https://github.com/sumin-world/hardware-adjacent-systems-lab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/hardware-adjacent-systems-lab](https://github.com/sumin-world/hardware-adjacent-systems-lab)<br>
+1. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
+2. ⭐ Starred [opencv/opencv](https://github.com/opencv/opencv)<br>
+3. ⭐ Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)<br>
+4. ⭐ Starred [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)<br>
+5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
