@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
-2. ⭐ Starred [opencv/opencv](https://github.com/opencv/opencv)<br>
-3. ⭐ Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)<br>
-4. ⭐ Starred [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)<br>
-5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)<br>
+1. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)<br>
+2. ⭐ Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)<br>
+3. ⭐ Starred [kedacore/keda](https://github.com/kedacore/keda)<br>
+4. ⭐ Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>
+5. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
