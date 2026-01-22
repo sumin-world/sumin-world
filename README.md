@@ -68,11 +68,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)<br>
-2. ⭐ Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)<br>
-3. ⭐ Starred [kedacore/keda](https://github.com/kedacore/keda)<br>
-4. ⭐ Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>
-5. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
+1. ⭐ Starred [google/leveldb](https://github.com/google/leveldb)<br>
+2. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)<br>
+3. ⭐ Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)<br>
+4. ⭐ Starred [kedacore/keda](https://github.com/kedacore/keda)<br>
+5. ⭐ Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
