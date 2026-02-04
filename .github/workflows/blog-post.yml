@@ -1,0 +1,25 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull in latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://feeds.feedburner.com/tistory/suminworld"
+          max_post_count: 5
+          commit_message: "chore(readme): update latest blog posts [skip ci]"
