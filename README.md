@@ -110,11 +110,11 @@ fn main() {
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [텍스트에서 지식 그래프 추출하기 - Extracting Knowledge Graphs From Text With GPT4o](https://suminworld.tistory.com/59)
 - [IPv4 시장 가격 vs 클라우드 과금: v4/v6 연결 지연 측정](https://suminworld.tistory.com/58)
 - [CSAPP 1.6 메모리 계층 &lpar;Memory Hierarchy&rpar; 정리](https://suminworld.tistory.com/57)
 - [Mac M4&lpar;ARM64&rpar;에서 x86_64 Pwnable 환경 세팅: Docker](https://suminworld.tistory.com/52)
 - [일어서기](https://suminworld.tistory.com/39)
-- [️리눅스 백신 실습2 - ClamAV 실시간 보호 구현 &lpar;inotify + bash 자동화&rpar;](https://suminworld.tistory.com/50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
