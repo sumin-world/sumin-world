@@ -98,11 +98,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/leveldb](https://github.com/google/leveldb)<br>
-2. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)<br>
-3. ⭐ Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)<br>
-4. ⭐ Starred [kedacore/keda](https://github.com/kedacore/keda)<br>
-5. ⭐ Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
