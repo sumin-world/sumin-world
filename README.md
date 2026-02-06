@@ -98,11 +98,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#193](https://github.com/canonical/open-documentation-academy/issues/193#issuecomment-3854865342) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+1. 💬 Commented on [#305](https://github.com/canonical/open-documentation-academy/issues/305#issuecomment-3859952588) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
+4. ⭐ Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br>
+5. 💬 Commented on [#193](https://github.com/canonical/open-documentation-academy/issues/193#issuecomment-3854865342) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
