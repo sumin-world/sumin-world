@@ -61,16 +61,20 @@ fn main() {
 
 ### 🔒 Security Research & Exploits
 
-- **Linux Kernel CVE-2022-32250 Exploit Development** — WHS-2 (White Hat School), Team Project (2024)
+- **Linux Kernel CVE-2022-32250 Exploit Development** — WHS-2nd (White Hat School), Team Project (2024)
   - Implemented a Linux kernel exploit for CVE-2022-32250 (UAF) with:
     - Heap grooming & leakage primitives
     - KASLR-related exploitation steps
     - Privilege escalation technique via `modprobe_path` overwrite (controlled execution path)
 
-- **SKT USIM Hacking Analysis** — USIS (University Student Intelligence Society), 3rd Cohort (2025, Team Project)
+---
+
+- **[SKT USIM Hacking Analysis](https://github.com/sumin-world/telecom-usim-security-lab)** — USIS (University Student Intelligence Society), 3rd Cohort (2025, Team Project)
   - Wrote a readability-first technical report for a mixed-background team (many non-CS members)
   - Focus: USIM/telecom threat surface, core flows around subscriber identity, and security implications across telecom backend components (e.g., HSS/UDM) from an APT-style perspective
   - Role: Primary author of the report, organizing the narrative, diagrams, and explanations to make complex topics digestible
+
+---
  
 - **OpenStack “Open the Window” Security Auditing** — SSL 6th Term (Oct 2025 – Jan 2026)
   - Authored a detailed report on the **Barbican Key Management** module, including architecture analysis and threat modelling.
