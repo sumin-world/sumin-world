@@ -54,8 +54,17 @@ fn main() {
   - Process management & I/O redirection
 
 #### 🦀 Rust Experiments
-- **One-liner Challenge**: `sum in world = suminworld!`
-- Custom operators & trait implementations
+
+- **[rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)** — Cargo workspace (7 crates, 64 tests, 0 warnings)
+    - port_scanner — Async TCP port scanner (Tokio, 1024 concurrent connections)
+    - discord_audit_bot — Discord server security audit bot (Serenity, 5-module architecture)
+    - packet-match-fuzz — KMP pattern matcher & mutation fuzzer for packet payloads
+    - wifi_audit — Passive 802.11 Wi-Fi auditor (Beacon/Probe analysis, libpcap)
+    - crypto — Educational cryptography toolkit (Caesar, Vigenère, XOR, Feistel, RSA, FNV-1a)
+    - merkle — SHA-256 Merkle tree with domain-separated hashing & inclusion proofs
+    - kernel-features — Rust-for-Linux language features study (Field Projection, In-place Init, Arbitrary Self Types)
+    - cache — Flush+Reload cache side-channel PoC (C)
+- **One-liner Challenge**: `sum in world = suminworld!` — Custom operators & trait implementations
 
 ---
 
@@ -92,21 +101,48 @@ fn main() {
 
 ### ⚙️ Hardware
 
-- **Social Crab PCB Design** — BitCrab Embedded Systems Club (Yonsei University) / 2024 IHEI Workstation Social Innovation Project (2024, Team Project)
+- **[Social Crab PCB Design](https://github.com/sumin-world/flood-alert-pcb)** — BitCrab Embedded Systems Club (Yonsei University) / 2024 IHEI Workstation Social Innovation Project (2024, Team Project)
   - As part of a small team from BitCrab, executed this hardware project inspired by our flood-prediction coursework, applying data-driven insights to embedded design for social impact (e.g., flood monitoring IoT prototype).
   - Designed a custom PCB for Raspberry Pi Pico, focusing on power-stability testing and embedded prototyping with protocols like I2C/SPI/UART.
   - Contributed to bring-up/testing workflows and documented processes for reproducible results.
 
 ---
 
+#### 📡 Signal Integrity & Channel Analysis
+- **[Channel Analysis Lab](https://github.com/sumin-world/channel-analysis-lab)** (Python)
+  - Statistical worst-case analysis toolkit for high-speed serial channels (PCIe 6.0, USB4, 112G PAM4)
+  - Vectorized Monte Carlo engine (NumPy, 10–50× speedup), 2^3 deterministic corner sweep, 2^k full-factorial DOE sensitivity
+  - Corner vs MC gap analysis, main-effect Pareto ranking for manufacturing tolerance budgeting
+  - Built on scikit-rf / Touchstone S-parameter data — CI-ready with Makefile pipeline
+
+---
+
+#### 🧊 Assistive Technology
+- **[NaviBlock](https://github.com/sumin-world/navi-block)** (C++, Python) — Team NAVI, Yonsei IHEI Workstation (2025)
+  - AI-powered spatial cognition training system for visually impaired users
+  - 3×3 NFC sensor grid (PN532 ×9, TCA9548A I2C mux) on ESP32, communicating with mobile app via BLE
+  - RAG-based voice assistant (GPT-4 + FAISS + pyttsx3) for on-demand spatial cognition Q&A
+  - Role: Product Management, Hardware Product Development (PCB bring-up, firmware, sensor integration)
+
+---
+
+#### 📊 Market Intelligence
+- **[Laneige INSIGHT MVP](https://github.com/sumin-world/amore-project)** (Python)
+  - Automated market intelligence pipeline for K-Beauty on Amazon
+  - Snapshot collection → Change detection → AI root-cause analysis (Groq/Claude/rule fallback) → ROI simulation
+  - Perceptual hashing (pHash) for thumbnail A/B test detection
+  - Streamlit dashboard with competitive analysis & ranking trend charts
+
+---
+
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-4. ⭐ Starred [drasi-project/learning](https://github.com/drasi-project/learning)<br>
-5. 💬 Commented on [#305](https://github.com/canonical/open-documentation-academy/issues/305#issuecomment-3859952588) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+2. ⭐ Starred [drasi-project/learning](https://github.com/drasi-project/learning)<br>
+3. 💬 Commented on [#305](https://github.com/canonical/open-documentation-academy/issues/305#issuecomment-3859952588) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
