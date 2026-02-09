@@ -102,11 +102,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-2. ⭐ Starred [drasi-project/learning](https://github.com/drasi-project/learning)<br>
-3. 💬 Commented on [#305](https://github.com/canonical/open-documentation-academy/issues/305#issuecomment-3859952588) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+4. ⭐ Starred [drasi-project/learning](https://github.com/drasi-project/learning)<br>
+5. 💬 Commented on [#305](https://github.com/canonical/open-documentation-academy/issues/305#issuecomment-3859952588) in [canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
