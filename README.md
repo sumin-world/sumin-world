@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+1. ⭐ Starred [muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend](https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/rust-security-suminworld](https://github.com/sumin-world/rust-security-suminworld)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
