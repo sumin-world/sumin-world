@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#275](undefined) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-2. 💪 Opened PR [#274](undefined) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-3. ⭐ Starred [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-4. 🔱 Forked [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core) from [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-5. ⭐ Starred [muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend](https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend)<br>
+1. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3907154090) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+2. 💪 Opened PR [#275](undefined) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+3. 💪 Opened PR [#274](undefined) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+4. ⭐ Starred [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+5. 🔱 Forked [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core) from [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
