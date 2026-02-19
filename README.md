@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918806381) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-2. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918505134) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-3. ❗️ Opened issue [#285](https://github.com/drasi-project/drasi-core/issues/285) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
-5. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3907154090) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+1. ⭐ Starred [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
+2. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918806381) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+3. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918505134) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+4. ❗️ Opened issue [#285](https://github.com/drasi-project/drasi-core/issues/285) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
