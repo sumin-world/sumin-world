@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-2. ⭐ Starred [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
-3. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918806381) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-4. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918505134) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
-5. ❗️ Opened issue [#285](https://github.com/drasi-project/drasi-core/issues/285) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+3. ⭐ Starred [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
+4. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918806381) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
+5. 💬 Commented on [#274](https://github.com/drasi-project/drasi-core/pull/274#issuecomment-3918505134) in [drasi-project/drasi-core](https://github.com/drasi-project/drasi-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
