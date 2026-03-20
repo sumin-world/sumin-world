@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
-4. ⭐ Starred [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>
-5. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+1. ⭐ Starred [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
+5. ⭐ Starred [prometheus/prometheus](https://github.com/prometheus/prometheus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
