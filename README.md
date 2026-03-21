@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jax-ml/jax](https://github.com/jax-ml/jax)<br>
-2. ⭐ Starred [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/drasi-core](https://github.com/sumin-world/drasi-core)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-agent](https://github.com/sumin-world/observability-agent)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/channel-analysis-lab](https://github.com/sumin-world/channel-analysis-lab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
