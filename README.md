@@ -138,6 +138,7 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
