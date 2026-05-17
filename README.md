@@ -138,7 +138,9 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+3. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
