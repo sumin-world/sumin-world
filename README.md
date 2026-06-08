@@ -138,9 +138,10 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+1. ⭐ Starred [CisMine/Parallel-Computing-Cuda-C](https://github.com/CisMine/Parallel-Computing-Cuda-C)<br>
 2. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-3. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+4. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
