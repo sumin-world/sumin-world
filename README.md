@@ -139,8 +139,6 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [CisMine/Parallel-Computing-Cuda-C](https://github.com/CisMine/Parallel-Computing-Cuda-C)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
