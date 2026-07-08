@@ -139,7 +139,6 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)<br>
-2. ⭐ Starred [CisMine/Parallel-Computing-Cuda-C](https://github.com/CisMine/Parallel-Computing-Cuda-C)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
