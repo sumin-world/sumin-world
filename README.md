@@ -139,7 +139,6 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe)<br>
-2. ⭐ Starred [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
