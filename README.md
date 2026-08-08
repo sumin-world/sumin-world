@@ -138,7 +138,9 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe)<br>
+1. ⭐ Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)<br>
+2. ⭐ Starred [commaai/opendbc](https://github.com/commaai/opendbc)<br>
+3. ⭐ Starred [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
