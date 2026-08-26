@@ -141,7 +141,7 @@ fn main() {
 1. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 2. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 3. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 5. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
 <!--RECENT_ACTIVITY:end-->
 
