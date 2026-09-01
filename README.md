@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
+1. ⭐ Starred [saschagrunert/indextree](https://github.com/saschagrunert/indextree)<br>
 2. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 3. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 4. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/sumin-world](https://github.com/sumin-world/sumin-world)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
