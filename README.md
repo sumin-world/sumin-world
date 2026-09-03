@@ -138,8 +138,8 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [saschagrunert/indextree](https://github.com/saschagrunert/indextree)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
+1. ⭐ Starred [DsThakurRawat/Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle)<br>
+2. ⭐ Starred [saschagrunert/indextree](https://github.com/saschagrunert/indextree)<br>
 3. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 4. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 5. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
