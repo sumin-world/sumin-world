@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [graykode/abtop](https://github.com/graykode/abtop)<br>
-2. ⭐ Starred [shubhag/systemdesign](https://github.com/shubhag/systemdesign)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
-4. ⭐ Starred [DsThakurRawat/Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle)<br>
-5. ⭐ Starred [saschagrunert/indextree](https://github.com/saschagrunert/indextree)<br>
+1. ⭐ Starred [delta-io/kafka-delta-ingest](https://github.com/delta-io/kafka-delta-ingest)<br>
+2. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+3. ⭐ Starred [graykode/abtop](https://github.com/graykode/abtop)<br>
+4. ⭐ Starred [shubhag/systemdesign](https://github.com/shubhag/systemdesign)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/neetcode-submissions](https://github.com/sumin-world/neetcode-submissions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
