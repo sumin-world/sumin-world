@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
-2. ⭐ Starred [delta-io/kafka-delta-ingest](https://github.com/delta-io/kafka-delta-ingest)<br>
-3. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
-4. ⭐ Starred [graykode/abtop](https://github.com/graykode/abtop)<br>
-5. ⭐ Starred [shubhag/systemdesign](https://github.com/shubhag/systemdesign)<br>
+1. ⭐ Starred [lakehq/sail](https://github.com/lakehq/sail)<br>
+2. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
+3. ⭐ Starred [delta-io/kafka-delta-ingest](https://github.com/delta-io/kafka-delta-ingest)<br>
+4. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
+5. ⭐ Starred [graykode/abtop](https://github.com/graykode/abtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
