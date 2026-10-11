@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lakehq/sail](https://github.com/lakehq/sail)<br>
-2. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
-3. ⭐ Starred [delta-io/kafka-delta-ingest](https://github.com/delta-io/kafka-delta-ingest)<br>
-4. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
-5. ⭐ Starred [graykode/abtop](https://github.com/graykode/abtop)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+4. ⭐ Starred [lakehq/sail](https://github.com/lakehq/sail)<br>
+5. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
