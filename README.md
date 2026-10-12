@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-4. ⭐ Starred [lakehq/sail](https://github.com/lakehq/sail)<br>
-5. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
+1. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+5. ⭐ Starred [lakehq/sail](https://github.com/lakehq/sail)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
