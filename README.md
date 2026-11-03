@@ -138,11 +138,11 @@ fn main() {
 ### 🔥 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
-3. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
-4. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
-5. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+1. ⭐ Starred [open-rmf/rmf_ros2](https://github.com/open-rmf/rmf_ros2)<br>
+2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
+3. ⬆️ Pushed undefined commit(s) to [sumin-world/amore-project](https://github.com/sumin-world/amore-project)<br>
+4. ⬆️ Pushed undefined commit(s) to [sumin-world/observability-sql-analysis](https://github.com/sumin-world/observability-sql-analysis)<br>
+5. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
