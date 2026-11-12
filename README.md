@@ -139,7 +139,6 @@ fn main() {
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [open-rmf/rmf_ros2](https://github.com/open-rmf/rmf_ros2)<br>
-2. ⬆️ Pushed undefined commit(s) to [sumin-world/container-observability-stack](https://github.com/sumin-world/container-observability-stack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
